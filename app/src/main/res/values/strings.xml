@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticaCalificada3</string>
+
+    <string name="register_username">Nombre de Usuario</string>
+    <string name="register_fullname">Nombre de Completo</string>
+    <string name="register_email">Correo</string>
+    <string name="register_password">Contraseña</string>
+    <string name="register_save">Guardar</string>
+</resources>
