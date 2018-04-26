@@ -1,9 +1,14 @@
 <resources>
     <string name="app_name">PracticaCalificada3</string>
 
-    <string name="register_username">Nombre de Usuario</string>
+    <string name="register_username">Nombre del Producto</string>
     <string name="register_fullname">Nombre de Completo</string>
     <string name="register_email">Correo</string>
     <string name="register_password">Contraseña</string>
     <string name="register_save">Guardar</string>
+    <string name="register_fullname2">Nombre del Producto</string>
+    <string name="register_categoria">Categoria</string>
+    <string name="register_precio">precio</string>
+    <string name="register_descripcion">Descripcion</string>
+    <string name="register_save2">Guardar Producto</string>
 </resources>

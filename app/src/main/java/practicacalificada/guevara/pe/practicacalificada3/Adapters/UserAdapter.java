@@ -5,4 +5,6 @@ package practicacalificada.guevara.pe.practicacalificada3.Adapters;
  */
 
 public class UserAdapter {
+    public class ViewHolder {
+    }
 }
